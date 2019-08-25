@@ -38,7 +38,7 @@ end
 
 # Define your play method below
   i=0
-def play (board)
+def play(board)
 
   until i == 9 
   turn (board) 
